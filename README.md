@@ -1,8 +1,12 @@
-# React + Vite
+# Frontend Task Manager
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+User visits the app and sees a list of tasks.
+They can add new tasks using a form.
+Tasks can be marked as completed or deleted.
+Users can edit existing tasks.
+Filters allow viewing Top 5 tasks.
+Number of completed Tasks can be shown above.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Run
+npm run dev 
+(after downloading all essentials)
